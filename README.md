@@ -1,6 +1,4 @@
-<head>
-    <title>Redfin ETL Data Analysis</title>
-</head>
+
 <body>
 
 <h1>Redfin ETL Data Analysis</h1>
