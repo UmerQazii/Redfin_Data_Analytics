@@ -11,7 +11,7 @@
 
 <p>The following diagram illustrates the architecture of the Redfin ETL Data Analysis:</p>
 
-<img src="Redfin_Data_Analytics\redfin_etl_architecture.drawio.png" alt="Redfin ETL Architecture">
+<img src="redfin_etl_architecture.drawio.png" alt="Redfin ETL Architecture">
 
 <h3>Components:</h3>
 <ol>
@@ -109,4 +109,3 @@
     </li>
 </ol>
 
-<h2>Directory Structure</h2>
